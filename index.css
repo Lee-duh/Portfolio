@@ -1,0 +1,33 @@
+h1{
+    color: royalblue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h1:hover{
+    color: pink;
+}
+h2{
+    color: crimson;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2:hover{
+    color: pink;
+}
+p{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p:hover{
+    color:greenyellow;
+}
+li{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+li:hover{
+    color: blueviolet;
+}
